@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "Server for the SmartLock project for SE329",
   "main": "main.js",
+	"scripts": {
+		"start": "node main.js"
+	},
   "dependencies": {
     "express": "^4.15.2",
     "mysql": "^2.13.0",
